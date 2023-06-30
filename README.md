@@ -1,2 +1,2 @@
 # my-sql-assignment
-This is an sql assignment-1 
+This is my sql assignment-1 
